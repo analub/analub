@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome to my profile!
+I'm an electrical engineering student at the Federal University of Juiz de Fora. Sometimes I like to spend my time creating projects, writing down ideas and putting into practice the things I learn at college. 
 
-<!--
-**analub/analub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ I use: .c, .cpp, .py 
 
-Here are some ideas to get you started:
+⚡ Here are some of my projects, tests and ideas =) 
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![analub's GitHub stats](https://github-readme-stats.vercel.app/api?username=analub&theme=onedark&show_icons=true)
+
+
+### Contact 
+📨 e-mail: analuisabasi@gmail.com     

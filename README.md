@@ -1,7 +1,7 @@
 # Welcome to my profile!
 I'm an electrical engineering student at the Federal University of Juiz de Fora. Sometimes I like to spend my time creating projects, writing down ideas and putting into practice the things I learn at college. 
 
-⚙️ I use: .c, .cpp, .py 
+⚙️ I use: .c, .cpp, .py, .v
 
 ⚡ Here are some of my projects, tests and ideas =) 
           
@@ -11,4 +11,4 @@ I'm an electrical engineering student at the Federal University of Juiz de Fora.
 
 
 ### Contact 
-📨 e-mail: analuisabasi@gmail.com     
+📨 e-mail: bc.analu04@gmail.com     

@@ -1,10 +1,7 @@
-# Welcome to my profile!
-I'm an electrical engineering student at the Federal University of Juiz de Fora. Sometimes I like to spend my time creating projects, writing down ideas and putting into practice the things I learn at college. 
+# Olá, eu sou a Ana!
+Sou estudante de Engenharia Elétrica com ênfase em Robótica e Automação Industrial pela Universidade Federal de Juiz de Fora. Aqui estão alguns dos meus projetos pessoais e atividades desenvolvidas na faculdade =)
 
-⚙️ I use: .c, .cpp, .py, .v
-
-⚡ Here are some of my projects, tests and ideas =) 
-          
+⚙️ Projetos: maioria em c, c++, python e matlab. também uso verilog para trabalhar com descricão de hardware em FPGA. 
 
 
 ![analub's GitHub stats](https://github-readme-stats.vercel.app/api?username=analub&theme=onedark&show_icons=true)
